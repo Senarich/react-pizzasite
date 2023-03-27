@@ -1,0 +1,26 @@
+.nav-bar {
+  background-color: brown;
+  height: 10vh;
+}
+.links a {
+  color: white;
+}
+.brand {
+  color: white;
+  font-weight: 600;
+}
+
+.carousal-content {
+  height: 110vh;
+  margin-bottom: 60px;
+}
+.type{
+  margin-top: 60px;
+}
+footer {
+  background-color: brown;
+  height: 10vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
